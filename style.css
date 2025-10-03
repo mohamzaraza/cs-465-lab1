@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url("../HTML/assets/Hamza\ logo.png");
+    background-image: url("../cs-465-lab1/assets/Hamza\ logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -142,7 +142,7 @@ span {
 
 /** hero section **/
 .hero-section {
-    background-image: url("../HTML/assets/8770889f041e0a57569ef61a13c2f6f6\ \(1\).jpg");
+    background-image: url("./assets/8770889f041e0a57569ef61a13c2f6f6\ \(1\).jpg");
     background-size: cover;
     height: 1000px;
     object-fit: cover;
@@ -246,7 +246,7 @@ ul a {
 }
 
 .logo {
-    background-image: url("../HTML/assets/Hamza\ logo.png");
+    background-image: url("/assets/Hamza\ logo.png");
     color: white;
     background-size: cover;
     height:80px;
